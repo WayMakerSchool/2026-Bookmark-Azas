@@ -1,0 +1,6 @@
+.env
+node_modules/
+data/patients.json
+media/memories/
+ios/**/xcuserdata/
+ios/**/*.xcuserstate

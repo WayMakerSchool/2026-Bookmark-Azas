@@ -1,0 +1,12 @@
+.DS_Store
+**/.DS_Store
+**/.env
+**/node_modules/
+**/.pio/
+**/__pycache__/
+**/*.pyc
+**/.vscode/
+**/xcuserdata/
+**/*.xcuserstate
+Bookmark software/data/patients.json
+Bookmark software/media/memories/
